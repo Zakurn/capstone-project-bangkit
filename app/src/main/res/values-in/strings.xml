@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HeloTani</string>
+
+    <string name="home_login">Beranda</string>
+    <string name="profile_login">Profil</string>
+    <string name="setting_login">Pengaturan</string>
+    <string name="history_login">Riwayat</string>
+    <string name="theme_mode">Mode Gelap</string>
+    <string name="theme_mode_description">Ganti tema ke mode gelap</string>
+    <string name="language_title">Ubah Bahasa</string>
+    <string name="language_description">Ubah bahasa menjadi \nbahasa Indonesia atau Inggris</string>
+    <string name="title_gallery">Galeri</string>
+    <string name="description_gallery">Ketuk untuk ambil dari galeri</string>
+    <string name="title_camera">Kamera</string>
+    <string name="description_camera">Ketuk untuk ambil dari kamera</string>
+    <string name="head_news">Berita</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="loading_predict">Memuat...</string>
+    <string name="intro_title">Lestarikan para petani dan bersama tumbuh menjadi lebih baik</string>
+    <string name="intro_desc">Jadikan lingkungan tanaman lebih sehat dengan menjaga kebersihan dan mengajak orang-orang di sekitar untuk ikut serta</string>
+    <string name="teks_login">Masuk</string>
+    <string name="teks_register">Daftar</string>
+    <string name="title_register">Registrasi Disini!</string>
+    <string name="teks_name">Nama</string>
+    <string name="place_name">Masukan Nama</string>
+    <string name="teks_email">Email</string>
+    <string name="place_email">Masukan Email</string>
+    <string name="teks_password">Password</string>
+    <string name="place_password">Masukan Password</string>
+    <string name="title_login">Login Disini!</string>
+    <string name="desc_login">Akun Anda, langkah pertama menuju lingkungan hijau</string>
+    <string name="title_welcome">Selamat Datang Di HeloTani</string>
+    <string name="desc_welcome">Masuk Terlebih dahulu ya</string>
+    <string name="splash_powered">Dibuat Oleh</string>
+    <string-array name="language_options">
+        <item>Bahasa Inggris</item>
+        <item>Bahasa Indonesia</item>
+    </string-array>
+</resources>

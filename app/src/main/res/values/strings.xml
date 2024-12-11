@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">HeloTani</string>
+
+    <string name="home_login">Home</string>
+    <string name="profile_login">Profile</string>
+    <string name="setting_login">Setting</string>
+    <string name="history_login">Recent</string>
+    <string name="theme_mode">Dark Mode</string>
+    <string name="theme_mode_description">Change theme to dark mode</string>
+    <string name="language_title">Change Language</string>
+    <string name="language_description">Change language to \nIndonesian or English</string>
+    <string name="title_gallery">Gallery</string>
+    <string name="description_gallery">Tap to grab from gallery</string>
+    <string name="title_camera">Camera</string>
+    <string name="description_camera">Tap to capture from camera</string>
+    <string name="head_news">News</string>
+    <string name="empty_image_warning">Please enter the image file first.</string>
+    <string name="loading_predict">Loading...</string>
+    <string name="intro_title">Preserve the farmers and grow better together</string>
+    <string name="intro_desc">Make the plant environment healthier by maintaining cleanliness and inviting people around you to join in too</string>
+    <string name="teks_login">Login</string>
+    <string name="teks_register">Register</string>
+    <string name="title_register">Register Below!!</string>
+    <string name="teks_name">Name</string>
+    <string name="place_name">Input Name</string>
+    <string name="teks_email">Email</string>
+    <string name="place_email">Input Email</string>
+    <string name="teks_password">Password</string>
+    <string name="place_password">Input Password</string>
+    <string name="title_login">Login Below!</string>
+    <string name="desc_login">Your account, the first step towards a green environment</string>
+    <string name="title_welcome">Welcome to HeloTani</string>
+    <string name="desc_welcome">Please log in first</string>
+    <string name="splash_powered">Powered By</string>
+    <string-array name="language_options">
+        <item>English</item>
+        <item>Bahasa</item>
+    </string-array>
+
+</resources>
